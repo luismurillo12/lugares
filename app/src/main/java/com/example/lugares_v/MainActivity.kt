@@ -20,6 +20,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         FirebaseApp.initializeApp(this)
         auth= Firebase.auth
-        //binding.etEmail
+        binding.etEmail
     }
 }
