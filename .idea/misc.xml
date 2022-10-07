@@ -3,16 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Progra Movil/app/src/main/res/drawable/ic_logg.xml" value="0.2645" />
-        <entry key="..\:/Progra Movil/app/src/main/res/drawable/ic_login.xml" value="0.3245" />
-        <entry key="..\:/Progra Movil/app/src/main/res/layout/activity_main.xml" value="0.5" />
-        <entry key="..\:/Progra Movil/app/src/main/res/layout/activity_principal.xml" value="0.3625" />
-        <entry key="..\:/Progra Movil/app/src/main/res/layout/app_bar_principal.xml" value="0.3625" />
-        <entry key="..\:/Progra Movil/app/src/main/res/layout/content_principal.xml" value="0.3625" />
-        <entry key="..\:/Progra Movil/app/src/main/res/layout/fragment_gallery.xml" value="0.3625" />
-        <entry key="..\:/Progra Movil/app/src/main/res/layout/fragment_lugar.xml" value="0.3625" />
-        <entry key="..\:/Progra Movil/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
-        <entry key="..\:/Progra Movil/app/src/main/res/menu/principal.xml" value="0.3625" />
+        <entry key="..\:/Progra Movil/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Progra Movil/app/src/main/res/layout/fragment_add_lugar.xml" value="0.3625" />
       </map>
     </option>
   </component>

@@ -59,4 +59,7 @@ dependencies {
     //Se agregan estas librerias para usar anotaciones @Entity y demás
     annotationProcessor 'androidx.room:room-compiler:2.4.3'
     implementation 'androidx.room:room-ktx:2.4.3'
+    kapt "androidx.room:room-compiler:2.4.3"
+
+    implementation 'androidx.navigation:navigation-dynamic-features-fragment:2.5.2'
 }
